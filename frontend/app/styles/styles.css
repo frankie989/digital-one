@@ -1,0 +1,14 @@
+:root {
+  --bg-color: #003882;
+}
+
+body {
+  font-family: sans-serif;
+  background: lightblue;
+}
+
+.card {
+  &__title {
+    text-align: center;
+  }
+}
